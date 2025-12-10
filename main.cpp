@@ -1,7 +1,8 @@
 #include <iostream<
 
 using namespace std;
-
+void funzione();
 int main (){
-  cout<<"ciao"<<endl;
+	cout<<"come stai<<"endl;
+	int temp = funzione();
 }
